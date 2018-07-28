@@ -8,4 +8,4 @@ It's simple, just forward us the email to **outreachshame@snipcart.com** and we'
 
 ## How it works?
 
-When we approve a submission, a pull request is created in this [Github Repostiory](https://github.com/snipcart/outreachshame). The website is then built and deployed on Netlify automatically.
+When we approve a submission, a commit is pushed in this [Github Repostiory](https://github.com/snipcart/outreachshame). We then use [Forestry](https://forestry.io/#/) to make content editing and publishing easier for our marketing folks. Once the entry is published, the site is built and delpoyed automatically on Netlify.
