@@ -20,14 +20,6 @@ export default {
                 .filter(x => x.path.startsWith('/blog/') && !x.frontmatter.blog_index)
                 .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
         }
-    },
-    methods: {
-        viewPost(path) {
-            alert(path);
-        }
-    },
-    mounted() {
-        console.log(this.$site);
     }
 }
 </script>
