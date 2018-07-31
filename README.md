@@ -1,11 +1,11 @@
 # Outreach shame
 
-What is outreach shame?
+What is outreach shame? Outreach Shame is the place to expose every lousy outreach emails. It's every online marketer's worst nightmares. These emails are everything you shouldn't do to promote your business & content. Everything's kept anonymous for good fun above all.
 
 ## How can you contribute?
 
-It's simple, just forward us the email to **outreachshame@snipcart.com** and we'll publish it on the blog as soon as our team approves it! We kindly ask you to censor any personal information from the email before forwarding it to us. Any emails with sensitive information won't make it to the blog.
+Simple, forward us the shameful email to [*outreachshame@snipcart.com*](mailto:outreachshame@snipcart.com) where it'll be up for moderation. We kindly ask you to censor any personal information from the email before forwarding it to us. Once your submission is accepted by our team it’ll be published on the site outreachshame.com.
 
 ## How it works?
 
-When we approve a submission, a commit is pushed in this [Github Repostiory](https://github.com/snipcart/outreachshame). We then use [Forestry](https://forestry.io/#/) to make content editing and publishing easier for our marketing folks. Once the entry is published, the site is built and delpoyed automatically on Netlify.
+Once a submission is approved, a commit is pushed in this [GitHub repository](https://github.com/snipcart/outreachshame). We then use [Forestry](https://forestry.io/#/) to make content editing and publishing easier for our dumb marketing folks. Once the entry is published, the site is built and deployed automatically on Netlify.
