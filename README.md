@@ -1,3 +1,7 @@
+---
+title: Outreach Shame
+---
+
 This documentation was built using [VuePress](https://vuepress.vuejs.org/).
 
 ![vuepress-tutorial](https://snipcart.com/media/203742/vuepress.png)
