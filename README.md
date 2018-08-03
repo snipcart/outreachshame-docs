@@ -2,13 +2,6 @@
 title: Outreach Shame
 ---
 
-This documentation was built using [VuePress](https://vuepress.vuejs.org/).
-
-![vuepress-tutorial](https://snipcart.com/media/203742/vuepress.png)
-
-> Read the technical tutorial [here]().
-> See the live demo [here](https://outreachshame-docs.netlify.com/).
-
 # Outreach Shame
 
 Outreach Shame is the place to expose every lousy outreach emails. It's every online marketer's worst nightmares. These emails are everything you shouldn't do to promote your business & content. Everything's kept anonymous for good fun above all.
